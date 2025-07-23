@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+faiss-cpu
+transformers
+sentence-transformers
+scikit-learn
+nltk
+jinja2
+python-multipart
